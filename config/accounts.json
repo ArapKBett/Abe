@@ -1,0 +1,14 @@
+[
+    {
+        "username": "account1_username",
+        "password": "account1_password",
+        "cookie": "optional_cookie_for_auth",
+        "last_used": null
+    },
+    {
+        "username": "account2_username",
+        "password": "account2_password",
+        "cookie": "optional_cookie_for_auth",
+        "last_used": null
+    }
+]
